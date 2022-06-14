@@ -1,0 +1,15 @@
+/Users/salatzelenyj/Desktop/GeekBrains/C#/S1/Exercise003_WeekDays/obj/Debug/net6.0/Exercise003_WeekDays.csproj.AssemblyReference.cache
+/Users/salatzelenyj/Desktop/GeekBrains/C#/S1/Exercise003_WeekDays/obj/Debug/net6.0/Exercise003_WeekDays.GeneratedMSBuildEditorConfig.editorconfig
+/Users/salatzelenyj/Desktop/GeekBrains/C#/S1/Exercise003_WeekDays/obj/Debug/net6.0/Exercise003_WeekDays.AssemblyInfoInputs.cache
+/Users/salatzelenyj/Desktop/GeekBrains/C#/S1/Exercise003_WeekDays/obj/Debug/net6.0/Exercise003_WeekDays.AssemblyInfo.cs
+/Users/salatzelenyj/Desktop/GeekBrains/C#/S1/Exercise003_WeekDays/obj/Debug/net6.0/Exercise003_WeekDays.csproj.CoreCompileInputs.cache
+/Users/salatzelenyj/Desktop/GeekBrains/C#/S1/Exercise003_WeekDays/bin/Debug/net6.0/Exercise003_WeekDays
+/Users/salatzelenyj/Desktop/GeekBrains/C#/S1/Exercise003_WeekDays/bin/Debug/net6.0/Exercise003_WeekDays.deps.json
+/Users/salatzelenyj/Desktop/GeekBrains/C#/S1/Exercise003_WeekDays/bin/Debug/net6.0/Exercise003_WeekDays.runtimeconfig.json
+/Users/salatzelenyj/Desktop/GeekBrains/C#/S1/Exercise003_WeekDays/bin/Debug/net6.0/Exercise003_WeekDays.dll
+/Users/salatzelenyj/Desktop/GeekBrains/C#/S1/Exercise003_WeekDays/bin/Debug/net6.0/Exercise003_WeekDays.pdb
+/Users/salatzelenyj/Desktop/GeekBrains/C#/S1/Exercise003_WeekDays/obj/Debug/net6.0/Exercise003_WeekDays.dll
+/Users/salatzelenyj/Desktop/GeekBrains/C#/S1/Exercise003_WeekDays/obj/Debug/net6.0/refint/Exercise003_WeekDays.dll
+/Users/salatzelenyj/Desktop/GeekBrains/C#/S1/Exercise003_WeekDays/obj/Debug/net6.0/Exercise003_WeekDays.pdb
+/Users/salatzelenyj/Desktop/GeekBrains/C#/S1/Exercise003_WeekDays/obj/Debug/net6.0/Exercise003_WeekDays.genruntimeconfig.cache
+/Users/salatzelenyj/Desktop/GeekBrains/C#/S1/Exercise003_WeekDays/obj/Debug/net6.0/ref/Exercise003_WeekDays.dll

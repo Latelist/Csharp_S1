@@ -1,0 +1,15 @@
+/Users/salatzelenyj/Desktop/GeekBrains/C#/S1/Exercise002_TwoNumbers/obj/Debug/net6.0/Exercise002_TwoNumbers.csproj.AssemblyReference.cache
+/Users/salatzelenyj/Desktop/GeekBrains/C#/S1/Exercise002_TwoNumbers/obj/Debug/net6.0/Exercise002_TwoNumbers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/salatzelenyj/Desktop/GeekBrains/C#/S1/Exercise002_TwoNumbers/obj/Debug/net6.0/Exercise002_TwoNumbers.AssemblyInfoInputs.cache
+/Users/salatzelenyj/Desktop/GeekBrains/C#/S1/Exercise002_TwoNumbers/obj/Debug/net6.0/Exercise002_TwoNumbers.AssemblyInfo.cs
+/Users/salatzelenyj/Desktop/GeekBrains/C#/S1/Exercise002_TwoNumbers/obj/Debug/net6.0/Exercise002_TwoNumbers.csproj.CoreCompileInputs.cache
+/Users/salatzelenyj/Desktop/GeekBrains/C#/S1/Exercise002_TwoNumbers/bin/Debug/net6.0/Exercise002_TwoNumbers
+/Users/salatzelenyj/Desktop/GeekBrains/C#/S1/Exercise002_TwoNumbers/bin/Debug/net6.0/Exercise002_TwoNumbers.deps.json
+/Users/salatzelenyj/Desktop/GeekBrains/C#/S1/Exercise002_TwoNumbers/bin/Debug/net6.0/Exercise002_TwoNumbers.runtimeconfig.json
+/Users/salatzelenyj/Desktop/GeekBrains/C#/S1/Exercise002_TwoNumbers/bin/Debug/net6.0/Exercise002_TwoNumbers.dll
+/Users/salatzelenyj/Desktop/GeekBrains/C#/S1/Exercise002_TwoNumbers/bin/Debug/net6.0/Exercise002_TwoNumbers.pdb
+/Users/salatzelenyj/Desktop/GeekBrains/C#/S1/Exercise002_TwoNumbers/obj/Debug/net6.0/Exercise002_TwoNumbers.dll
+/Users/salatzelenyj/Desktop/GeekBrains/C#/S1/Exercise002_TwoNumbers/obj/Debug/net6.0/refint/Exercise002_TwoNumbers.dll
+/Users/salatzelenyj/Desktop/GeekBrains/C#/S1/Exercise002_TwoNumbers/obj/Debug/net6.0/Exercise002_TwoNumbers.pdb
+/Users/salatzelenyj/Desktop/GeekBrains/C#/S1/Exercise002_TwoNumbers/obj/Debug/net6.0/Exercise002_TwoNumbers.genruntimeconfig.cache
+/Users/salatzelenyj/Desktop/GeekBrains/C#/S1/Exercise002_TwoNumbers/obj/Debug/net6.0/ref/Exercise002_TwoNumbers.dll
