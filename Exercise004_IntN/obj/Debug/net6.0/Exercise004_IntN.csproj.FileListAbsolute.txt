@@ -1,0 +1,15 @@
+/Users/salatzelenyj/Desktop/GeekBrains/C#/S1/Exercise004_IntN/obj/Debug/net6.0/Exercise004_IntN.csproj.AssemblyReference.cache
+/Users/salatzelenyj/Desktop/GeekBrains/C#/S1/Exercise004_IntN/obj/Debug/net6.0/Exercise004_IntN.GeneratedMSBuildEditorConfig.editorconfig
+/Users/salatzelenyj/Desktop/GeekBrains/C#/S1/Exercise004_IntN/obj/Debug/net6.0/Exercise004_IntN.AssemblyInfoInputs.cache
+/Users/salatzelenyj/Desktop/GeekBrains/C#/S1/Exercise004_IntN/obj/Debug/net6.0/Exercise004_IntN.AssemblyInfo.cs
+/Users/salatzelenyj/Desktop/GeekBrains/C#/S1/Exercise004_IntN/obj/Debug/net6.0/Exercise004_IntN.csproj.CoreCompileInputs.cache
+/Users/salatzelenyj/Desktop/GeekBrains/C#/S1/Exercise004_IntN/bin/Debug/net6.0/Exercise004_IntN
+/Users/salatzelenyj/Desktop/GeekBrains/C#/S1/Exercise004_IntN/bin/Debug/net6.0/Exercise004_IntN.deps.json
+/Users/salatzelenyj/Desktop/GeekBrains/C#/S1/Exercise004_IntN/bin/Debug/net6.0/Exercise004_IntN.runtimeconfig.json
+/Users/salatzelenyj/Desktop/GeekBrains/C#/S1/Exercise004_IntN/bin/Debug/net6.0/Exercise004_IntN.dll
+/Users/salatzelenyj/Desktop/GeekBrains/C#/S1/Exercise004_IntN/bin/Debug/net6.0/Exercise004_IntN.pdb
+/Users/salatzelenyj/Desktop/GeekBrains/C#/S1/Exercise004_IntN/obj/Debug/net6.0/Exercise004_IntN.dll
+/Users/salatzelenyj/Desktop/GeekBrains/C#/S1/Exercise004_IntN/obj/Debug/net6.0/refint/Exercise004_IntN.dll
+/Users/salatzelenyj/Desktop/GeekBrains/C#/S1/Exercise004_IntN/obj/Debug/net6.0/Exercise004_IntN.pdb
+/Users/salatzelenyj/Desktop/GeekBrains/C#/S1/Exercise004_IntN/obj/Debug/net6.0/Exercise004_IntN.genruntimeconfig.cache
+/Users/salatzelenyj/Desktop/GeekBrains/C#/S1/Exercise004_IntN/obj/Debug/net6.0/ref/Exercise004_IntN.dll

@@ -1,0 +1,15 @@
+/Users/salatzelenyj/Desktop/GeekBrains/C#/S1/Exercise005_LastCifer/bin/Debug/net6.0/Exercise005_LastCifer
+/Users/salatzelenyj/Desktop/GeekBrains/C#/S1/Exercise005_LastCifer/bin/Debug/net6.0/Exercise005_LastCifer.deps.json
+/Users/salatzelenyj/Desktop/GeekBrains/C#/S1/Exercise005_LastCifer/bin/Debug/net6.0/Exercise005_LastCifer.runtimeconfig.json
+/Users/salatzelenyj/Desktop/GeekBrains/C#/S1/Exercise005_LastCifer/bin/Debug/net6.0/Exercise005_LastCifer.dll
+/Users/salatzelenyj/Desktop/GeekBrains/C#/S1/Exercise005_LastCifer/bin/Debug/net6.0/Exercise005_LastCifer.pdb
+/Users/salatzelenyj/Desktop/GeekBrains/C#/S1/Exercise005_LastCifer/obj/Debug/net6.0/Exercise005_LastCifer.csproj.AssemblyReference.cache
+/Users/salatzelenyj/Desktop/GeekBrains/C#/S1/Exercise005_LastCifer/obj/Debug/net6.0/Exercise005_LastCifer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/salatzelenyj/Desktop/GeekBrains/C#/S1/Exercise005_LastCifer/obj/Debug/net6.0/Exercise005_LastCifer.AssemblyInfoInputs.cache
+/Users/salatzelenyj/Desktop/GeekBrains/C#/S1/Exercise005_LastCifer/obj/Debug/net6.0/Exercise005_LastCifer.AssemblyInfo.cs
+/Users/salatzelenyj/Desktop/GeekBrains/C#/S1/Exercise005_LastCifer/obj/Debug/net6.0/Exercise005_LastCifer.csproj.CoreCompileInputs.cache
+/Users/salatzelenyj/Desktop/GeekBrains/C#/S1/Exercise005_LastCifer/obj/Debug/net6.0/Exercise005_LastCifer.dll
+/Users/salatzelenyj/Desktop/GeekBrains/C#/S1/Exercise005_LastCifer/obj/Debug/net6.0/refint/Exercise005_LastCifer.dll
+/Users/salatzelenyj/Desktop/GeekBrains/C#/S1/Exercise005_LastCifer/obj/Debug/net6.0/Exercise005_LastCifer.pdb
+/Users/salatzelenyj/Desktop/GeekBrains/C#/S1/Exercise005_LastCifer/obj/Debug/net6.0/Exercise005_LastCifer.genruntimeconfig.cache
+/Users/salatzelenyj/Desktop/GeekBrains/C#/S1/Exercise005_LastCifer/obj/Debug/net6.0/ref/Exercise005_LastCifer.dll

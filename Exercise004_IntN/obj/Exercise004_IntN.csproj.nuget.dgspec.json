@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/salatzelenyj/Desktop/GeekBrains/C#/S1/Exercise001_SquareNumber/S1.csproj": {}
+    "/Users/salatzelenyj/Desktop/GeekBrains/C#/S1/Exercise004_IntN/Exercise004_IntN.csproj": {}
   },
   "projects": {
-    "/Users/salatzelenyj/Desktop/GeekBrains/C#/S1/Exercise001_SquareNumber/S1.csproj": {
+    "/Users/salatzelenyj/Desktop/GeekBrains/C#/S1/Exercise004_IntN/Exercise004_IntN.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/salatzelenyj/Desktop/GeekBrains/C#/S1/Exercise001_SquareNumber/S1.csproj",
-        "projectName": "S1",
-        "projectPath": "/Users/salatzelenyj/Desktop/GeekBrains/C#/S1/Exercise001_SquareNumber/S1.csproj",
+        "projectUniqueName": "/Users/salatzelenyj/Desktop/GeekBrains/C#/S1/Exercise004_IntN/Exercise004_IntN.csproj",
+        "projectName": "Exercise004_IntN",
+        "projectPath": "/Users/salatzelenyj/Desktop/GeekBrains/C#/S1/Exercise004_IntN/Exercise004_IntN.csproj",
         "packagesPath": "/Users/salatzelenyj/.nuget/packages/",
-        "outputPath": "/Users/salatzelenyj/Desktop/GeekBrains/C#/S1/Exercise001_SquareNumber/obj/",
+        "outputPath": "/Users/salatzelenyj/Desktop/GeekBrains/C#/S1/Exercise004_IntN/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/salatzelenyj/.nuget/NuGet/NuGet.Config"

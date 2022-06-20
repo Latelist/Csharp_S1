@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/salatzelenyj/Desktop/GeekBrains/C#/S1/Exercise001_SquareNumber/S1.csproj",
-      "projectName": "S1",
-      "projectPath": "/Users/salatzelenyj/Desktop/GeekBrains/C#/S1/Exercise001_SquareNumber/S1.csproj",
+      "projectUniqueName": "/Users/salatzelenyj/Desktop/GeekBrains/C#/S1/Exercise005_LastCifer/Exercise005_LastCifer.csproj",
+      "projectName": "Exercise005_LastCifer",
+      "projectPath": "/Users/salatzelenyj/Desktop/GeekBrains/C#/S1/Exercise005_LastCifer/Exercise005_LastCifer.csproj",
       "packagesPath": "/Users/salatzelenyj/.nuget/packages/",
-      "outputPath": "/Users/salatzelenyj/Desktop/GeekBrains/C#/S1/Exercise001_SquareNumber/obj/",
+      "outputPath": "/Users/salatzelenyj/Desktop/GeekBrains/C#/S1/Exercise005_LastCifer/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/salatzelenyj/.nuget/NuGet/NuGet.Config"
